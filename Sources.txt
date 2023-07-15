@@ -4,4 +4,5 @@ uMod.zip;https://github.com/AssassinsCreedRemastered/Assassins-Creed-Remastered-
 PSButtons.rar;https://github.com/AssassinsCreedRemastered/Assassins-Creed-Remastered-Mods/releases/download/1.0.0/PSButtons.rar
 AssassinsCreed_Dx9.zip;https://github.com/AssassinsCreedRemastered/Assassins-Creed-Remastered-Mods/releases/download/1.0.0/LAAexe.zip
 ReShade.zip;https://github.com/AssassinsCreedRemastered/Assassins-Creed-Remastered-Mods/releases/download/1.0.0/ReShade.zip
+Launcher.zip;https://github.com/AssassinsCreedRemastered/Assassins-Creed-Remastered-Launcher/releases/download/latest/Launcher.zip
 Overhaul.zip;https://github.com/AssassinsCreedRemastered/Assassins-Creed-Remastered-Mods/releases/download/1.0.0/Overhaul.zip
