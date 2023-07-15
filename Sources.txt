@@ -3,4 +3,4 @@ EaglePatchAC1.rar;https://github.com/Sergeanur/EaglePatch/releases/download/v1.0
 uMod.zip;https://github.com/AssassinsCreedRemastered/Assassins-Creed-Remastered-Mods/releases/download/1.0.0/uMod.zip
 PSButtons.rar;https://github.com/AssassinsCreedRemastered/Assassins-Creed-Remastered-Mods/releases/download/1.0.0/PSButtons.rar
 AssassinsCreed_Dx9.zip;https://github.com/AssassinsCreedRemastered/Assassins-Creed-Remastered-Mods/releases/download/1.0.0/LAAexe.zip
-Overhaul.zip;https://drive.google.com/uc?export=download&id=1xS85Pr9S7h2tllu6rzUvTcXP6S56o9vo
+Overhaul.zip;https://github.com/AssassinsCreedRemastered/Assassins-Creed-Remastered-Mods/releases/download/1.0.0/Overhaul.zip
