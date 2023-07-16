@@ -1,5 +1,4 @@
 Credits:
-
 1. [uMod Tool For Allowing Texture Modifications](https://code.google.com/archive/p/texmod/)
 2. [hecumarine For Creating Overhaul Mod](https://www.moddb.com/mods/assassins-creed-2014-overhaul)
 3. [Sergeanur For Creating EaglePatch](https://github.com/Sergeanur/EaglePatch)
