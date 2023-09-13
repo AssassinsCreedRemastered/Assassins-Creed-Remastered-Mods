@@ -5,3 +5,6 @@ Credits:
 * [sergio1030 for Creating PS3 Buttons Mod](https://www.nexusmods.com/assassinscreed/mods/10)
 * [crosire For Creating ReShade](https://reshade.me/)
 * [Ciocolici for the ReShade Preset﻿](https://steamcommunity.com/sharedfiles/filedetails/?id=2957930769)
+* [Icons8 for all of the icons used here](https://icons8.com/)
+* [sony33d for icon used in Discord Rich Presence](https://www.deviantart.com/sony33d/art/Assassin-s-Creed-Icon-Pack-PNG-ICO-555468864)
+* [00031 for creating banner and upscaling background image](https://www.nexusmods.com/users/70787823)
