@@ -1,5 +1,5 @@
 ASI-Loader.zip;https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/latest/download/Ultimate-ASI-Loader.zip
-EaglePatchAC1.rar;https://github.com/Sergeanur/EaglePatch/releases/latest/download/EaglePatchAC1.rar
+EaglePatchAC1.rar;https://github.com/Sergeanur/EaglePatch/releases/latest/download/EaglePatchAC1.zip
 uMod.zip;https://github.com/AssassinsCreedRemastered/Assassins-Creed-Remastered-Mods/releases/latest/download/uMod.zip
 PSButtons.rar;https://github.com/AssassinsCreedRemastered/Assassins-Creed-Remastered-Mods/releases/latest/download/PSButtons.rar
 AssassinsCreed_Dx9.zip;https://github.com/AssassinsCreedRemastered/Assassins-Creed-Remastered-Mods/releases/latest/download/LAAexe.zip
